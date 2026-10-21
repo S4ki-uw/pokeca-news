@@ -1,0 +1,55 @@
+name: collect-news
+
+# ポケカ情報の自動収集（PCの電源に関係なくGitHubのサーバーで実行）
+# collector/collect.js を定期実行し、raw_news.json を更新する。
+# 実際の記事の要約付き news.js への反映は、スマホから Claude に「更新して」と頼めばOK。
+
+on:
+  schedule:
+    # 1日3回（朝・昼・夜 JST）。cron はUTC指定。JST = UTC+9。
+    - cron: "0 23 * * *"   # 08:00 JST（朝）
+    - cron: "0 3 * * *"    # 12:00 JST（昼）
+    - cron: "0 13 * * *"   # 22:00 JST（夜）
+  workflow_dispatch:        # 手動実行も可（Actionsタブからボタンで即収集）
+
+# GITHUB_TOKEN に push 権限を与える（外部シークレット不要）
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run collector
+        run: node collector/collect.js
+
+      - name: Commit raw_news.json only when items changed
+        run: |
+          set -e
+          # meta.collectedAt は毎回変わるので、items の中身が変わった時だけコミットする
+          new_items=$(jq -S '.items' raw_news.json)
+          old_items=$(git show HEAD:raw_news.json 2>/dev/null | jq -S '.items' 2>/dev/null || echo "null")
+          if [ "$new_items" = "$old_items" ]; then
+            echo "新着なし（itemsに変化なし）→ コミットしません"
+            git checkout -- raw_news.json || true
+            exit 0
+          fi
+          new_count=$(jq '.meta.newCount' raw_news.json)
+          git config user.name "pokeca-collector[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add raw_news.json
+          git commit -m "collect: raw_news.json 更新（新着候補 ${new_count} 件） $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M JST')"
+          git push
+          echo "raw_news.json を更新しました（新着候補 ${new_count} 件）"
