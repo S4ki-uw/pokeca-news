@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ポケカ情報まとめ（個人用）</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- ===== ヘッダー ===== -->
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="site-title">
+        <span class="title-mark">▲</span> ポケカ情報まとめ
+        <span class="title-sub">個人用</span>
+      </h1>
+      <div class="update-info">
+        <span id="last-updated" class="last-updated"></span>
+        <span class="update-hint">更新するには Claude に「更新して」と依頼</span>
+      </div>
+    </div>
+    <div id="sample-banner" class="sample-banner" hidden></div>
+  </header>
+
+  <main class="container">
+
+    <!-- ===== 今日のポケカニュース（ピックアップ） ===== -->
+    <section class="pickup-section" aria-labelledby="pickup-heading">
+      <h2 id="pickup-heading" class="section-title">📌 今日のポケカニュース</h2>
+      <p class="section-note">今日これだけ見ればOK。特に重要なニュースをピックアップ。</p>
+      <div id="pickup-list" class="pickup-list"></div>
+    </section>
+
+    <!-- ===== 検索・フィルター ===== -->
+    <section class="controls" aria-label="検索とフィルター">
+      <div class="search-box">
+        <input type="search" id="search-input" placeholder="🔍 キーワードで検索（タイトル・要約）" autocomplete="off">
+      </div>
+      <div id="category-filters" class="category-filters"></div>
+    </section>
+
+    <!-- ===== ニュース一覧 ===== -->
+    <section class="news-section" aria-labelledby="news-heading">
+      <div class="news-heading-row">
+        <h2 id="news-heading" class="section-title">ニュース一覧</h2>
+        <span id="result-count" class="result-count"></span>
+      </div>
+      <div id="news-list" class="news-list"></div>
+      <p id="empty-message" class="empty-message" hidden>該当するニュースがありません。</p>
+    </section>
+
+  </main>
+
+  <!-- ===== フッター ===== -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-note">
+        情報源の優先順位: ①ポケモンカード公式 ②ポケモン公式 ③大会公式 ④信頼性の高いニュースサイト ⑤専門メディア ⑥その他
+      </p>
+      <p class="footer-disclaimer">
+        個人利用のまとめです。各ニュースの詳細は必ず元記事（公式）をご確認ください。
+        発売日・価格・カード効果・大会結果などは変更される場合があります。
+      </p>
+      <p class="footer-legend">
+        <span class="legend-item"><span class="legend-fact">事実</span> = 元記事に書かれている内容</span>
+        <span class="legend-item"><span class="legend-ai">初心者向け解説</span> = AIによる補足（推測を含む場合あり）</span>
+      </p>
+    </div>
+  </footer>
+
+  <!-- データ（Claudeが再生成）→ アプリ本体 の順に読み込む -->
+  <script src="news.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

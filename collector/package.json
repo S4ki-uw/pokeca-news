@@ -1,0 +1,13 @@
+{
+  "name": "pokeca-collector",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ポケカ情報 自動収集ツール（公式HTML + 専門メディアRSS → raw_news.json）。追加ライブラリ不要。",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node collect.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

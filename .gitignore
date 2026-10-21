@@ -1,0 +1,8 @@
+# 収集ツールのログ・一時物
+collector/collect_log.txt
+node_modules/
+
+# OneDrive/OS の一時ファイル
+Thumbs.db
+desktop.ini
+.DS_Store

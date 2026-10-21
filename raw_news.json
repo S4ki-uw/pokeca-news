@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "collectedAt": "2026-10-18T13:40:35.251Z",
+    "total": 13,
+    "newCount": 7,
+    "perSource": {
+      "ポケモンカード公式": 4,
+      "ポケカ飯（大会・優勝デッキ）": 5,
+      "攻略大百科（ポケカ）": 4
+    }
+  },
+  "items": [
+    {
+      "id": "pokekameshi.com-2026-10-18-85e278",
+      "title": "【ジュニア】シティリーグ2026/10/18(日)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261018j/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-10-18",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-10-18-ujwpbm",
+      "title": "【シニア】シティリーグ2026/10/18(日)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261018s/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-10-18",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-10-18-jml0d0",
+      "title": "【シティリーグ】2026/10/18(日)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261018/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-10-18",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": false
+    },
+    {
+      "id": "pokekameshi.com-2026-10-17-h81d2d",
+      "title": "【シティリーグ】2026/10/17(土)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague2026101/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-10-17",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-10-17-sp8b85",
+      "title": "【ジュニア】シティリーグ2026/10/17(土)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261017j/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-10-17",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pc-2026-10-16-mn6qlo",
+      "title": "「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」が11月13日（金）に発売！",
+      "url": "https://www.pokemon-card.com/products/mega/mg.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-10-16",
+      "category": "新商品",
+      "officialLabel": "商品",
+      "isNew": false
+    },
+    {
+      "id": "pc-005701",
+      "title": "【公式】ポケモンカードチャンネルでポケモンカードゲーム 30周年記念映像を配信！",
+      "url": "https://www.pokemon-card.com/info/005701.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-10-16",
+      "category": "その他",
+      "officialLabel": "その他",
+      "isNew": false
+    },
+    {
+      "id": "pc-005705",
+      "title": "プロモカードパック第6弾、公開！",
+      "url": "https://www.pokemon-card.com/info/005705.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-10-16",
+      "category": "新カード",
+      "officialLabel": "イベント",
+      "isNew": false
+    },
+    {
+      "id": "premium.gamepedia.jp-2026-10-16-uu1exx",
+      "title": "【ポケカ】スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガーの収録カードと抽選・予約情報まとめ",
+      "url": "https://premium.gamepedia.jp/pokeca/archives/25871",
+      "source": "攻略大百科（ポケカ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-10-16",
+      "category": "新カード",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "premium.gamepedia.jp-2026-10-15-j2cuqz",
+      "title": "【ポケカ】Yahoo!フリマ・ヤフオクでカートン、空箱の出品禁止｜対象と期間",
+      "url": "https://premium.gamepedia.jp/pokeca/archives/25858",
+      "source": "攻略大百科（ポケカ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-10-15",
+      "category": "その他",
+      "officialLabel": null,
+      "isNew": false
+    },
+    {
+      "id": "pc-005666",
+      "title": "「 チャンピオンズリーグ2027 千葉」 2026年11月22日（日）～23日（月・祝）開催！",
+      "url": "https://www.pokemon-card.com/info/005666.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-10-09",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": false
+    },
+    {
+      "id": "premium.gamepedia.jp-2026-10-02-tijhi8",
+      "title": "【ポケカ】MUR高額カードランキング｜買取価格・収録パックまとめ",
+      "url": "https://premium.gamepedia.jp/pokeca/archives/25741",
+      "source": "攻略大百科（ポケカ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-10-02",
+      "category": "相場",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "premium.gamepedia.jp-2026-09-15-6xqcoh",
+      "title": "【ポケカ】30th CELEBRATIONがメルカリ出品禁止に｜対象商品・期間まとめ",
+      "url": "https://premium.gamepedia.jp/pokeca/archives/25546",
+      "source": "攻略大百科（ポケカ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-09-15",
+      "category": "その他",
+      "officialLabel": null,
+      "isNew": true
+    }
+  ]
+}
