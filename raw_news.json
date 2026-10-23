@@ -1,12 +1,12 @@
 {
   "meta": {
-    "collectedAt": "2026-10-23T06:25:22.867Z",
-    "total": 59,
-    "newCount": 48,
+    "collectedAt": "2026-10-23T08:00:16.072Z",
+    "total": 49,
+    "newCount": 40,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
-      "攻略大百科（ポケカ）": 10
+      "攻略大百科（ポケカ）": "取得失敗: This operation was aborted"
     }
   },
   "items": [
@@ -19,7 +19,7 @@
       "publishedAt": "2026-10-23",
       "category": "新商品",
       "officialLabel": "商品",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pc-005728",
@@ -30,7 +30,7 @@
       "publishedAt": "2026-10-23",
       "category": "大会",
       "officialLabel": "イベント",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pc-005452",
@@ -198,17 +198,6 @@
       "isNew": true
     },
     {
-      "id": "premium.gamepedia.jp-2026-10-16-emwost",
-      "title": "【ポケカ】スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガーの収録カードと抽選・予約情報まとめ【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/25871",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-10-16",
-      "category": "新カード",
-      "officialLabel": null,
-      "isNew": false
-    },
-    {
       "id": "pokekameshi.com-2026-10-15-69n5yk",
       "title": "【シティリーグ】2026/10/15(木)開催分 優勝＆入賞デッキまとめ",
       "url": "https://pokekameshi.com/cityleague20261015/",
@@ -218,17 +207,6 @@
       "category": "大会",
       "officialLabel": null,
       "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-10-15-g9bwf7",
-      "title": "【ポケカ】Yahoo!フリマ・ヤフオクでカートン、空箱の出品禁止｜対象と期間【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/25858",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-10-15",
-      "category": "その他",
-      "officialLabel": null,
-      "isNew": false
     },
     {
       "id": "pc-005666",
@@ -273,17 +251,6 @@
       "category": "大会",
       "officialLabel": "イベント",
       "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-10-02-8tn4fm",
-      "title": "【ポケカ】MUR高額カードランキング｜買取価格・収録パックまとめ【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/25741",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-10-02",
-      "category": "相場",
-      "officialLabel": null,
-      "isNew": false
     },
     {
       "id": "pc-2026-09-29-maq1h9",
@@ -418,17 +385,6 @@
       "isNew": true
     },
     {
-      "id": "premium.gamepedia.jp-2026-09-15-6wk6dd",
-      "title": "【ポケカ】30th CELEBRATIONがメルカリ出品禁止に｜対象商品・期間まとめ【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/25546",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-09-15",
-      "category": "その他",
-      "officialLabel": null,
-      "isNew": false
-    },
-    {
       "id": "pc-005663",
       "title": "「チャンピオンズリーグ2027 横浜」のライブ配信が決定！",
       "url": "https://www.pokemon-card.com/info/005663.html",
@@ -539,28 +495,6 @@
       "isNew": true
     },
     {
-      "id": "premium.gamepedia.jp-2026-09-09-6wlsu9",
-      "title": "【ポケカ】30周年記念のサプライ一覧まとめ｜3種のプレイマットやショッピングバッグなどが登場【9月16日発売】【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/25385",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-09-09",
-      "category": "新商品",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-09-07-ddnrlr",
-      "title": "【ポケカ30周年】30th セレブレーションの当たりカードランキング｜買取価格・封入率まとめ【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/24665",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-09-07",
-      "category": "相場",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
       "id": "pc-2026-09-06-x1a7jg",
       "title": "「ポケどこポケカ部 みんなで進化合宿！」の参加者募集を開始！",
       "url": "https://www.30th.pokemon-card.com/event/30thevent/entry",
@@ -569,17 +503,6 @@
       "publishedAt": "2026-09-06",
       "category": "大会",
       "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-09-05-h9pyaa",
-      "title": "【ポケカ】新弾発売予定スケジュールまとめ｜次のパックの発売日はいつ？【2026年9月更新】【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/327",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-09-05",
-      "category": "新商品",
-      "officialLabel": null,
       "isNew": true
     },
     {
@@ -624,39 +547,6 @@
       "publishedAt": "2026-09-04",
       "category": "ルール",
       "officialLabel": "その他",
-      "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-08-31-oje1ao",
-      "title": "【ポケカ】ポケモン映画「ポケモン：ワイルドカード」が2027年に公開決定！来場者特典のカードはある？過去のプロモ相場も紹介【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/24970",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-08-31",
-      "category": "相場",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-08-31-yxkrjm",
-      "title": "【ポケカ】新シリーズ「ex★(イーエックススター)」の情報が公開！ライコウ・スイクン・エンテイが登場？【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/24959",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-08-31",
-      "category": "新カード",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-08-31-9jo9nq",
-      "title": "【ポケカ】2026年発売のハイクラスパックの情報が解禁？MAなど収録カードまとめ【MEGA×MEGA パレード】【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/24915",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-08-31",
-      "category": "新カード",
-      "officialLabel": null,
       "isNew": true
     }
   ]
