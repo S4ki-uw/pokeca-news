@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-10-25T07:51:21.211Z",
+    "collectedAt": "2026-10-26T08:11:08.706Z",
     "total": 59,
     "newCount": 44,
     "perSource": {
@@ -10,6 +10,17 @@
     }
   },
   "items": [
+    {
+      "id": "pokekameshi.com-2026-10-26-gbq35e",
+      "title": "【千葉】30th CELEBRATION スクランブルバトル【10/25開催まとめ】",
+      "url": "https://pokekameshi.com/scramblebattle-20261025/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-10-26",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "pokekameshi.com-2026-10-25-kjal0",
       "title": "拡張パック【ハドウシーカー】収録カードリスト＆解説",
@@ -157,17 +168,6 @@
       "id": "pokekameshi.com-2026-10-17-sp8b85",
       "title": "【ジュニア】シティリーグ2026/10/17(土)開催分 優勝＆入賞デッキまとめ",
       "url": "https://pokekameshi.com/cityleague20261017j/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-10-17",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-10-17-3mkz85",
-      "title": "【シニア】シティリーグ2026/10/17(土)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261017s/",
       "source": "ポケカ飯（大会・優勝デッキ）",
       "sourceReliability": 3,
       "publishedAt": "2026-10-17",
