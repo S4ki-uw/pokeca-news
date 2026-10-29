@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-10-28T18:40:58.604Z",
+    "collectedAt": "2026-10-29T01:53:11.136Z",
     "total": 59,
     "newCount": 45,
     "perSource": {
@@ -10,6 +10,17 @@
     }
   },
   "items": [
+    {
+      "id": "premium.gamepedia.jp-2026-10-29-gi9to9",
+      "title": "【ポケカ】新弾？「マグマの鼓動」「イナズマの衝撃」「オーロラの波紋」などが商標登録｜収録カード予想【ポケモンカード】",
+      "url": "https://premium.gamepedia.jp/pokeca/archives/25994",
+      "source": "攻略大百科（ポケカ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-10-29",
+      "category": "新カード",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "pokekameshi.com-2026-10-28-zde1k6",
       "title": "【シティリーグ】2026/10/28(水)開催分 優勝＆入賞デッキまとめ",
@@ -645,17 +656,6 @@
       "sourceReliability": 3,
       "publishedAt": "2026-08-31",
       "category": "相場",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-08-31-yxkrjm",
-      "title": "【ポケカ】新シリーズ「ex★(イーエックススター)」の情報が公開！ライコウ・スイクン・エンテイが登場？【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/24959",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-08-31",
-      "category": "新カード",
       "officialLabel": null,
       "isNew": true
     }
