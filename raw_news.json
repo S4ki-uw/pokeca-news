@@ -1,12 +1,12 @@
 {
   "meta": {
-    "collectedAt": "2026-10-30T09:08:47.303Z",
-    "total": 59,
-    "newCount": 42,
+    "collectedAt": "2026-10-30T18:27:03.864Z",
+    "total": 58,
+    "newCount": 41,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
-      "攻略大百科（ポケカ）": 10
+      "攻略大百科（ポケカ）": 9
     }
   },
   "items": [
@@ -646,17 +646,6 @@
       "publishedAt": "2026-09-06",
       "category": "大会",
       "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-08-31-oje1ao",
-      "title": "【ポケカ】ポケモン映画「ポケモン：ワイルドカード」が2027年に公開決定！来場者特典のカードはある？過去のプロモ相場も紹介【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/24970",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-08-31",
-      "category": "相場",
-      "officialLabel": null,
       "isNew": true
     }
   ]
