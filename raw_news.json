@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-10-29T18:49:45.515Z",
+    "collectedAt": "2026-10-30T09:08:47.303Z",
     "total": 59,
     "newCount": 42,
     "perSource": {
@@ -11,9 +11,75 @@
   },
   "items": [
     {
+      "id": "pc-005738",
+      "title": "「チャンピオンズリーグ2027 千葉」ジュニアリーグの追加エントリーについて",
+      "url": "https://www.pokemon-card.com/info/005738.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-10-30",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-005737",
+      "title": "「シティリーグ2027 シーズン2」がポケモンカードジムでスタート！",
+      "url": "https://www.pokemon-card.com/info/005737.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-10-30",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-005740",
+      "title": "「ポケモンカードゲーム スクランブルバトル 香川」開催！",
+      "url": "https://www.pokemon-card.com/info/005740.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-10-30",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-004753",
+      "title": "ポケモンカードストア、新店登場！",
+      "url": "https://www.pokemon-card.com/info/004753.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-10-30",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-005452",
+      "title": "「ポケモンカードゲーム学園祭2026」の開催情報を更新！",
+      "url": "https://www.pokemon-card.com/info/005452.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-10-30",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
       "id": "pokekameshi.com-2026-10-29-eo8uhb",
       "title": "【シティリーグ】2026/10/29(木)開催分 優勝＆入賞デッキまとめ",
       "url": "https://pokekameshi.com/cityleague20261029/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-10-29",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-10-29-gbq35e",
+      "title": "【千葉】30th CELEBRATION スクランブルバトル【10/25開催まとめ】",
+      "url": "https://pokekameshi.com/scramblebattle-20261025/",
       "source": "ポケカ飯（大会・優勝デッキ）",
       "sourceReliability": 3,
       "publishedAt": "2026-10-29",
@@ -64,17 +130,6 @@
       "category": "大会",
       "officialLabel": null,
       "isNew": false
-    },
-    {
-      "id": "pokekameshi.com-2026-10-26-gbq35e",
-      "title": "【千葉】30th CELEBRATION スクランブルバトル【10/25開催まとめ】",
-      "url": "https://pokekameshi.com/scramblebattle-20261025/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-10-26",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
     },
     {
       "id": "pokekameshi.com-2026-10-25-kjal0",
@@ -352,17 +407,6 @@
       "isNew": true
     },
     {
-      "id": "pc-005452",
-      "title": "「ポケモンカードゲーム学園祭2026」の開催情報を更新！",
-      "url": "https://www.pokemon-card.com/info/005452.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-25",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
       "id": "pc-005690",
       "title": "「チャンピオンズリーグ2027 横浜」優勝者インタビュー",
       "url": "https://www.pokemon-card.com/info/005690.html",
@@ -602,50 +646,6 @@
       "publishedAt": "2026-09-06",
       "category": "大会",
       "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-2026-09-04-c6env7",
-      "title": "「ポケモンカードゲーム 30th CELEBRATION EVENT」の最新情報を公開！",
-      "url": "https://www.30th.pokemon-card.com/event/30thevent/",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-04",
-      "category": "新カード",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-005627",
-      "title": "「チャンピオンズリーグ2027 横浜」ジュニアリーグの追加エントリーについて",
-      "url": "https://www.pokemon-card.com/info/005627.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-04",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-005622",
-      "title": "「チャンピオンズリーグ2027 横浜」サイドイベントについて",
-      "url": "https://www.pokemon-card.com/info/005622.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-04",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-005630",
-      "title": "競技向けルール「ペナルティガイドライン」「裁定事例集」の更新のお知らせ",
-      "url": "https://www.pokemon-card.com/info/005630.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-04",
-      "category": "ルール",
-      "officialLabel": "その他",
       "isNew": true
     },
     {
