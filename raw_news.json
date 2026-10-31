@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-10-30T18:27:03.864Z",
+    "collectedAt": "2026-10-31T17:31:19.721Z",
     "total": 58,
     "newCount": 41,
     "perSource": {
@@ -10,6 +10,17 @@
     }
   },
   "items": [
+    {
+      "id": "pokekameshi.com-2026-11-01-6kn61v",
+      "title": "【大阪】30th CELEBRATION スクランブルバトル【10/31・11/1開催まとめ】",
+      "url": "https://pokekameshi.com/https-pokekameshi-com-scramblebattle-20261101/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-01",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "pc-005738",
       "title": "「チャンピオンズリーグ2027 千葉」ジュニアリーグの追加エントリーについて",
@@ -226,17 +237,6 @@
       "source": "ポケカ飯（大会・優勝デッキ）",
       "sourceReliability": 3,
       "publishedAt": "2026-10-20",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-10-18-85e278",
-      "title": "【ジュニア】シティリーグ2026/10/18(日)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261018j/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-10-18",
       "category": "大会",
       "officialLabel": null,
       "isNew": true
