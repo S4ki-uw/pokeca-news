@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-11-01T02:00:08.410Z",
+    "collectedAt": "2026-11-02T22:11:37.137Z",
     "total": 58,
     "newCount": 41,
     "perSource": {
@@ -10,6 +10,17 @@
     }
   },
   "items": [
+    {
+      "id": "pokekameshi.com-2026-11-02-fbvjyh",
+      "title": "【シティリーグ】2026/11/02(月)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261102/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-02",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "pokekameshi.com-2026-11-01-6kn61v",
       "title": "【大阪】30th CELEBRATION スクランブルバトル【10/31・11/1開催まとめ】",
@@ -229,17 +240,6 @@
       "category": "大会",
       "officialLabel": null,
       "isNew": false
-    },
-    {
-      "id": "pokekameshi.com-2026-10-20-47e6kp",
-      "title": "【シティリーグ】2026/10/20(火)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261020/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-10-20",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
     },
     {
       "id": "pc-000007",
