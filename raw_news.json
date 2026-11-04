@@ -1,8 +1,8 @@
 {
   "meta": {
-    "collectedAt": "2026-11-03T19:58:30.689Z",
+    "collectedAt": "2026-11-04T10:00:32.950Z",
     "total": 58,
-    "newCount": 43,
+    "newCount": 45,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
@@ -10,6 +10,28 @@
     }
   },
   "items": [
+    {
+      "id": "pokekameshi.com-2026-11-04-43tvyt",
+      "title": "【シティリーグ】2026/11/4(水)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261104/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-04",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-11-04-eo45mu",
+      "title": "【ハレラボ】ドラパルトの使用率が約5割！？FUMO TCG CUP #4 大会レポート",
+      "url": "https://pokekameshi.com/harereport-20261024/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-04",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "pokekameshi.com-2026-11-03-gyafez",
       "title": "【シティリーグ】2026/11/3(火)開催分 優勝＆入賞デッキまとめ",
@@ -160,28 +182,6 @@
       "source": "ポケカ飯（大会・優勝デッキ）",
       "sourceReliability": 3,
       "publishedAt": "2026-10-28",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": false
-    },
-    {
-      "id": "pokekameshi.com-2026-10-27-mixi40",
-      "title": "【シティリーグ】2026/10/27(火)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261027/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-10-27",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": false
-    },
-    {
-      "id": "pokekameshi.com-2026-10-26-kcmpzo",
-      "title": "【シティリーグ】2026/10/26(月)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261026/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-10-26",
       "category": "大会",
       "officialLabel": null,
       "isNew": false
