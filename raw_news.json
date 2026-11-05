@@ -1,8 +1,8 @@
 {
   "meta": {
-    "collectedAt": "2026-11-05T09:58:31.259Z",
-    "total": 58,
-    "newCount": 46,
+    "collectedAt": "2026-11-05T20:29:25.317Z",
+    "total": 57,
+    "newCount": 45,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
@@ -635,17 +635,6 @@
       "publishedAt": "2026-09-07",
       "category": "相場",
       "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pc-2026-09-06-x1a7jg",
-      "title": "「ポケどこポケカ部 みんなで進化合宿！」の参加者募集を開始！",
-      "url": "https://www.30th.pokemon-card.com/event/30thevent/entry",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-06",
-      "category": "大会",
-      "officialLabel": "イベント",
       "isNew": true
     }
   ]
