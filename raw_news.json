@@ -1,15 +1,103 @@
 {
   "meta": {
-    "collectedAt": "2026-11-06T03:18:19.104Z",
-    "total": 57,
-    "newCount": 45,
+    "collectedAt": "2026-11-06T09:59:48.275Z",
+    "total": 59,
+    "newCount": 46,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
-      "攻略大百科（ポケカ）": 9
+      "攻略大百科（ポケカ）": 10
     }
   },
   "items": [
+    {
+      "id": "pc-2026-11-06-n6wn4d",
+      "title": "拡張パック「ハドウシーカー」の、収録カードをさらに大公開！",
+      "url": "https://www.pokemon-card.com/ex/m7/",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-06",
+      "category": "新カード",
+      "officialLabel": "商品",
+      "isNew": false
+    },
+    {
+      "id": "pc-005726",
+      "title": "原哲夫先生がイラストを描き下ろした「マキシの熱血」のSARが登場、登場を記念した原先生のインタビューを掲載！",
+      "url": "https://www.pokemon-card.com/info/005726.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-06",
+      "category": "新商品",
+      "officialLabel": "商品",
+      "isNew": true
+    },
+    {
+      "id": "pc-005752",
+      "title": "「チャンピオンズリーグ2027 千葉」サイドイベントについて",
+      "url": "https://www.pokemon-card.com/info/005752.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-06",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-005753",
+      "title": "2026年度のポケモンカードゲーム 資格試験を実施します",
+      "url": "https://www.pokemon-card.com/info/005753.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-06",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-005754",
+      "title": "「ポケモンジャパンチャンピオンシップス2027」の優先出場権について",
+      "url": "https://www.pokemon-card.com/info/005754.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-06",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-005739",
+      "title": "「ポケモンワールドチャンピオンシップス2027」カードゲーム部門の出場権について",
+      "url": "https://www.pokemon-card.com/info/005739.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-06",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-005755",
+      "title": "一部商品価格改定のお知らせ",
+      "url": "https://www.pokemon-card.com/info/005755.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-06",
+      "category": "その他",
+      "officialLabel": "その他",
+      "isNew": true
+    },
+    {
+      "id": "pc-005756",
+      "title": "ポケモンカードゲームのキャンペーンを装ったフィッシング（詐欺）メールにご注意ください",
+      "url": "https://www.pokemon-card.com/info/005756.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-06",
+      "category": "その他",
+      "officialLabel": "その他",
+      "isNew": true
+    },
     {
       "id": "pokekameshi.com-2026-11-06-1q6rum",
       "title": "【PC版】PTCGLインストール手順とおすすめVPNサービス",
@@ -29,6 +117,28 @@
       "sourceReliability": 3,
       "publishedAt": "2026-11-06",
       "category": "環境",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "premium.gamepedia.jp-2026-11-06-j5m82x",
+      "title": "【ポケカ】やのまん「ストレイジボックス HG1600」実物レビュー！トレカは何枚入る？収納力・使い勝手を検証【ポケモンカード】",
+      "url": "https://premium.gamepedia.jp/pokeca/archives/26000",
+      "source": "攻略大百科（ポケカ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-06",
+      "category": "新商品",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "premium.gamepedia.jp-2026-11-06-ly4u2n",
+      "title": "【ポケカ】【実物レビュー】KMC「カードボックス1000」は何枚入る？5区画の使い勝手をワンピースカードで検証【ポケモンカード】",
+      "url": "https://premium.gamepedia.jp/pokeca/archives/26026",
+      "source": "攻略大百科（ポケカ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-06",
+      "category": "新商品",
       "officialLabel": null,
       "isNew": true
     },
@@ -220,8 +330,8 @@
       "isNew": true
     },
     {
-      "id": "premium.gamepedia.jp-2026-10-23-6skib4",
-      "title": "【ポケカ】ハドウシーカーの収録カードリストや抽選・予約情報まとめ(10月23日更新)｜20種判明【拡張パック】【BOX】【ポケモンカード】",
+      "id": "premium.gamepedia.jp-2026-10-23-yt79ov",
+      "title": "【ポケカ】ハドウシーカーの収録カードリストや抽選・予約情報まとめ(11月6日更新)｜34種判明【拡張パック】【BOX】【ポケモンカード】",
       "url": "https://premium.gamepedia.jp/pokeca/archives/25938",
       "source": "攻略大百科（ポケカ）",
       "sourceReliability": 3,
@@ -320,7 +430,7 @@
     },
     {
       "id": "pc-005666",
-      "title": "「 チャンピオンズリーグ2027 千葉」 2026年11月22日（日）～23日（月・祝）開催！",
+      "title": "「チャンピオンズリーグ2027 千葉」2026年11月22日（日）～23日（月・祝）開催！",
       "url": "https://www.pokemon-card.com/info/005666.html",
       "source": "ポケモンカード公式",
       "sourceReliability": 5,
@@ -539,83 +649,6 @@
       "isNew": true
     },
     {
-      "id": "pc-2026-09-09-gbieaw",
-      "title": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード公開！",
-      "url": "https://www.30th.pokemon-card.com/product/mf",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-09",
-      "category": "新カード",
-      "officialLabel": "商品",
-      "isNew": true
-    },
-    {
-      "id": "pc-2026-09-09-fajpvl",
-      "title": "9月16日（水）に発売のデッキシールドを一挙紹介！",
-      "url": "https://www.30th.pokemon-card.com/product/goods-01",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-09",
-      "category": "新商品",
-      "officialLabel": "商品",
-      "isNew": true
-    },
-    {
-      "id": "pc-2026-09-09-69y1ns",
-      "title": "9月16日（水）に発売のデッキケースを一挙紹介！",
-      "url": "https://www.30th.pokemon-card.com/product/goods-02",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-09",
-      "category": "新商品",
-      "officialLabel": "商品",
-      "isNew": true
-    },
-    {
-      "id": "pc-2026-09-09-mhz2z5",
-      "title": "9月16日（水）に発売のプレイマットを一挙紹介！",
-      "url": "https://www.30th.pokemon-card.com/product/goods-03",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-09",
-      "category": "新商品",
-      "officialLabel": "商品",
-      "isNew": true
-    },
-    {
-      "id": "pc-2026-09-09-5jmuyn",
-      "title": "9月16日（水）に発売のポケモンカードゲーム周辺グッズを一挙紹介！",
-      "url": "https://www.30th.pokemon-card.com/product/goods-04",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-09",
-      "category": "新商品",
-      "officialLabel": "商品",
-      "isNew": true
-    },
-    {
-      "id": "pc-2026-09-09-tn0jm4",
-      "title": "9月16日（水）に発売のショッピングバッグを一挙紹介！",
-      "url": "https://www.30th.pokemon-card.com/product/goods-05",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-09",
-      "category": "新商品",
-      "officialLabel": "商品",
-      "isNew": true
-    },
-    {
-      "id": "pc-005662",
-      "title": "「プロモカードパック 25th ANNIVERSARY edition」の使用についてのお知らせ",
-      "url": "https://www.pokemon-card.com/info/005662.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-09",
-      "category": "新商品",
-      "officialLabel": "その他",
-      "isNew": true
-    },
-    {
       "id": "premium.gamepedia.jp-2026-09-09-6wlsu9",
       "title": "【ポケカ】30周年記念のサプライ一覧まとめ｜3種のプレイマットやショッピングバッグなどが登場【9月16日発売】【ポケモンカード】",
       "url": "https://premium.gamepedia.jp/pokeca/archives/25385",
@@ -623,17 +656,6 @@
       "sourceReliability": 3,
       "publishedAt": "2026-09-09",
       "category": "新商品",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-09-07-ddnrlr",
-      "title": "【ポケカ30周年】30th セレブレーションの当たりカードランキング｜買取価格・封入率まとめ【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/24665",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-09-07",
-      "category": "相場",
       "officialLabel": null,
       "isNew": true
     }
