@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-11-05T20:29:25.317Z",
+    "collectedAt": "2026-11-06T03:18:19.104Z",
     "total": 57,
     "newCount": 45,
     "perSource": {
@@ -10,6 +10,28 @@
     }
   },
   "items": [
+    {
+      "id": "pokekameshi.com-2026-11-06-1q6rum",
+      "title": "【PC版】PTCGLインストール手順とおすすめVPNサービス",
+      "url": "https://pokekameshi.com/ptcgl-pc/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-06",
+      "category": "環境",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-11-06-eizh4g",
+      "title": "【シティS１】プロのデッキ選択｜プロ＆有名プレイヤー使用デッキまとめ",
+      "url": "https://pokekameshi.com/2027citys1_prolist/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-06",
+      "category": "環境",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "pokekameshi.com-2026-11-05-gvn9yu",
       "title": "【シティリーグ】2026/11/5(木)開催分 優勝＆入賞デッキまとめ",
@@ -151,28 +173,6 @@
       "publishedAt": "2026-10-30",
       "category": "大会",
       "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-10-29-eo8uhb",
-      "title": "【シティリーグ】2026/10/29(木)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261029/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-10-29",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-10-29-gbq35e",
-      "title": "【千葉】30th CELEBRATION スクランブルバトル【10/25開催まとめ】",
-      "url": "https://pokekameshi.com/scramblebattle-20261025/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-10-29",
-      "category": "大会",
-      "officialLabel": null,
       "isNew": true
     },
     {
