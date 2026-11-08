@@ -1,12 +1,12 @@
 {
   "meta": {
-    "collectedAt": "2026-11-08T09:38:29.769Z",
-    "total": 59,
-    "newCount": 46,
+    "collectedAt": "2026-11-08T18:14:24.117Z",
+    "total": 57,
+    "newCount": 44,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
-      "攻略大百科（ポケカ）": 10
+      "攻略大百科（ポケカ）": 9
     }
   },
   "items": [
@@ -330,8 +330,8 @@
       "isNew": true
     },
     {
-      "id": "premium.gamepedia.jp-2026-10-23-yt79ov",
-      "title": "【ポケカ】ハドウシーカーの収録カードリストや抽選・予約情報まとめ(11月6日更新)｜34種判明【拡張パック】【BOX】【ポケモンカード】",
+      "id": "premium.gamepedia.jp-2026-10-23-r0yuen",
+      "title": "【ポケカ】ハドウシーカーの収録カードリストや抽選・予約情報まとめ(11月8日更新)｜38種判明【拡張パック】【BOX】【ポケモンカード】",
       "url": "https://premium.gamepedia.jp/pokeca/archives/25938",
       "source": "攻略大百科（ポケカ）",
       "sourceReliability": 3,
@@ -635,28 +635,6 @@
       "publishedAt": "2026-09-11",
       "category": "大会",
       "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-2026-09-09-v0rvl9",
-      "title": "拡張パック「30th CELEBRATION」の収録カード公開！",
-      "url": "https://www.30th.pokemon-card.com/product/m6a",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-09",
-      "category": "新カード",
-      "officialLabel": "商品",
-      "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-09-09-6wlsu9",
-      "title": "【ポケカ】30周年記念のサプライ一覧まとめ｜3種のプレイマットやショッピングバッグなどが登場【9月16日発売】【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/25385",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-09-09",
-      "category": "新商品",
-      "officialLabel": null,
       "isNew": true
     }
   ]
