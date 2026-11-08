@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-11-07T17:57:32.326Z",
+    "collectedAt": "2026-11-08T09:38:29.769Z",
     "total": 59,
     "newCount": 46,
     "perSource": {
@@ -10,6 +10,17 @@
     }
   },
   "items": [
+    {
+      "id": "pokekameshi.com-2026-11-08-s98loq",
+      "title": "【シティリーグ】2026/11/8(日)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261108/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-08",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "pokekameshi.com-2026-11-07-5x92v1",
       "title": "【シティリーグ】2026/11/7(土)開催分 優勝＆入賞デッキまとめ",
@@ -36,6 +47,28 @@
       "id": "pokekameshi.com-2026-11-07-kwdu0t",
       "title": "【シニア】シティリーグ2026/11/7(土)開催分 優勝＆入賞デッキまとめ",
       "url": "https://pokekameshi.com/cityleague20261107s/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-07",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-11-07-fy8jek",
+      "title": "【シニア】シティリーグ2026/11/8(日)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261108s/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-07",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-11-07-5qqt9i",
+      "title": "【ジュニア】シティリーグ2026/11/8(日)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261108j/",
       "source": "ポケカ飯（大会・優勝デッキ）",
       "sourceReliability": 3,
       "publishedAt": "2026-11-07",
@@ -194,39 +227,6 @@
       "sourceReliability": 3,
       "publishedAt": "2026-11-06",
       "category": "新商品",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-05-gvn9yu",
-      "title": "【シティリーグ】2026/11/5(木)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261105/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-05",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-04-43tvyt",
-      "title": "【シティリーグ】2026/11/4(水)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261104/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-04",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-04-eo45mu",
-      "title": "【ハレラボ】ドラパルトの使用率が約5割！？FUMO TCG CUP #4 大会レポート",
-      "url": "https://pokekameshi.com/harereport-20261024/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-04",
-      "category": "大会",
       "officialLabel": null,
       "isNew": true
     },
