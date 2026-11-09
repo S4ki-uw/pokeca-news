@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-11-08T18:14:24.117Z",
+    "collectedAt": "2026-11-09T10:29:14.926Z",
     "total": 57,
     "newCount": 44,
     "perSource": {
@@ -10,6 +10,17 @@
     }
   },
   "items": [
+    {
+      "id": "pokekameshi.com-2026-11-09-2fuch9",
+      "title": "シティリーグnote記事まとめ【30thCELEBRATION環境】",
+      "url": "https://pokekameshi.com/cityleague2027m6a-note/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-09",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "pokekameshi.com-2026-11-08-s98loq",
       "title": "【シティリーグ】2026/11/8(日)開催分 優勝＆入賞デッキまとめ",
@@ -190,17 +201,6 @@
       "id": "pokekameshi.com-2026-11-06-1q6rum",
       "title": "【PC版】PTCGLインストール手順とおすすめVPNサービス",
       "url": "https://pokekameshi.com/ptcgl-pc/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-06",
-      "category": "環境",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-06-eizh4g",
-      "title": "【シティS１】プロのデッキ選択｜プロ＆有名プレイヤー使用デッキまとめ",
-      "url": "https://pokekameshi.com/2027citys1_prolist/",
       "source": "ポケカ飯（大会・優勝デッキ）",
       "sourceReliability": 3,
       "publishedAt": "2026-11-06",
