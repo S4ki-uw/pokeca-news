@@ -1,8 +1,8 @@
 {
   "meta": {
-    "collectedAt": "2026-11-10T10:32:29.800Z",
-    "total": 57,
-    "newCount": 44,
+    "collectedAt": "2026-11-10T20:17:16.320Z",
+    "total": 55,
+    "newCount": 42,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
@@ -614,28 +614,6 @@
       "category": "その他",
       "officialLabel": null,
       "isNew": false
-    },
-    {
-      "id": "pc-005663",
-      "title": "「チャンピオンズリーグ2027 横浜」のライブ配信が決定！",
-      "url": "https://www.pokemon-card.com/info/005663.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-11",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-005452",
-      "title": "9月から日本各地の大学で「ポケモンカードゲーム学園祭2026」を開催！",
-      "url": "https://www.pokemon-card.com/info/005452.html ",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-11",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
     }
   ]
 }
