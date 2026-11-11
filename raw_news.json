@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-11-10T20:17:16.320Z",
+    "collectedAt": "2026-11-11T09:55:50.459Z",
     "total": 55,
     "newCount": 42,
     "perSource": {
@@ -10,6 +10,17 @@
     }
   },
   "items": [
+    {
+      "id": "pokekameshi.com-2026-11-11-zg1llf",
+      "title": "【シティリーグ】2026/11/11(水)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261111/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-11",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "pokekameshi.com-2026-11-10-mqlwxj",
       "title": "【シティリーグ】2026/11/10(火)開催分 優勝＆入賞デッキまとめ",
@@ -102,17 +113,6 @@
       "id": "pokekameshi.com-2026-11-07-5qqt9i",
       "title": "【ジュニア】シティリーグ2026/11/8(日)開催分 優勝＆入賞デッキまとめ",
       "url": "https://pokekameshi.com/cityleague20261108j/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-07",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-07-tmjit4",
-      "title": "【シティリーグ】2026/10/22(木)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261022/",
       "source": "ポケカ飯（大会・優勝デッキ）",
       "sourceReliability": 3,
       "publishedAt": "2026-11-07",
