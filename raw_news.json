@@ -1,8 +1,8 @@
 {
   "meta": {
-    "collectedAt": "2026-11-13T10:10:23.754Z",
+    "collectedAt": "2026-11-13T20:21:50.746Z",
     "total": 56,
-    "newCount": 43,
+    "newCount": 42,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
@@ -53,6 +53,17 @@
       "category": "大会",
       "officialLabel": "イベント",
       "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-11-13-kjal0",
+      "title": "拡張パック【ハドウシーカー】収録カードリスト＆解説",
+      "url": "https://pokekameshi.com/cardlistm7/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-13",
+      "category": "新カード",
+      "officialLabel": null,
+      "isNew": false
     },
     {
       "id": "pc-005604",
@@ -157,17 +168,6 @@
       "id": "pokekameshi.com-2026-11-07-kwdu0t",
       "title": "【シニア】シティリーグ2026/11/7(土)開催分 優勝＆入賞デッキまとめ",
       "url": "https://pokekameshi.com/cityleague20261107s/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-07",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-07-fy8jek",
-      "title": "【シニア】シティリーグ2026/11/8(日)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261108s/",
       "source": "ポケカ飯（大会・優勝デッキ）",
       "sourceReliability": 3,
       "publishedAt": "2026-11-07",
