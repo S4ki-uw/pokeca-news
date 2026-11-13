@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-11-12T10:24:47.617Z",
+    "collectedAt": "2026-11-13T10:10:23.754Z",
     "total": 56,
     "newCount": 43,
     "perSource": {
@@ -10,6 +10,50 @@
     }
   },
   "items": [
+    {
+      "id": "pc-2026-11-13-n6wn4d",
+      "title": "拡張パック「ハドウシーカー」の、収録カードをさらに大公開！",
+      "url": "https://www.pokemon-card.com/ex/m7/",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-13",
+      "category": "新カード",
+      "officialLabel": "商品",
+      "isNew": false
+    },
+    {
+      "id": "pc-005751",
+      "title": "「チャンピオンズリーグ2027 千葉」のライブ配信が決定！",
+      "url": "https://www.pokemon-card.com/info/005751.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-13",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-000008",
+      "title": "「Pokémon Team Masters」の抽選結果発表の延期および参加規約同意期間について",
+      "url": "https://www.pokemon-card.com/info/000008.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-13",
+      "category": "販売",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-005452",
+      "title": "「ポケモンカードゲーム学園祭2026」の開催情報を更新！",
+      "url": "https://www.pokemon-card.com/info/005452.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-13",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
     {
       "id": "pc-005604",
       "title": "スペシャルデッキセットMEGAでデッキそのままバトルに参加しよう！",
@@ -130,17 +174,6 @@
       "category": "大会",
       "officialLabel": null,
       "isNew": true
-    },
-    {
-      "id": "pc-2026-11-06-n6wn4d",
-      "title": "拡張パック「ハドウシーカー」の、収録カードをさらに大公開！",
-      "url": "https://www.pokemon-card.com/ex/m7/",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-11-06",
-      "category": "新カード",
-      "officialLabel": "商品",
-      "isNew": false
     },
     {
       "id": "pc-005726",
@@ -278,17 +311,6 @@
       "id": "pc-004753",
       "title": "ポケモンカードストア、新店登場！",
       "url": "https://www.pokemon-card.com/info/004753.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-10-30",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-005452",
-      "title": "「ポケモンカードゲーム学園祭2026」の開催情報を更新！",
-      "url": "https://www.pokemon-card.com/info/005452.html",
       "source": "ポケモンカード公式",
       "sourceReliability": 5,
       "publishedAt": "2026-10-30",
@@ -586,28 +608,6 @@
       "id": "pc-005675",
       "title": "「チャンピオンズリーグ2027」における「ポケモンワールドチャンピオンシップス2027」出場権の獲得条件変更について",
       "url": "https://www.pokemon-card.com/info/005675.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-18",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-2026-09-18-lli0t7",
-      "title": "POKÉMON CARD LOUNGEで「チャンピオンズリーグ2027 横浜」を観戦しよう！",
-      "url": "https://shibuyatsutaya.tsite.jp/article/2638.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-18",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-005676",
-      "title": "ポケカチャンネル10周年記念イベント～応援してくれてるみんなとポケカがしたい～開催！",
-      "url": "https://www.pokemon-card.com/info/005676.html",
       "source": "ポケモンカード公式",
       "sourceReliability": 5,
       "publishedAt": "2026-09-18",
