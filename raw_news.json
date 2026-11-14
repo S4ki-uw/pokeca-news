@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-11-13T20:21:50.746Z",
+    "collectedAt": "2026-11-14T02:57:31.261Z",
     "total": 56,
     "newCount": 42,
     "perSource": {
@@ -52,6 +52,17 @@
       "publishedAt": "2026-11-13",
       "category": "大会",
       "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-11-13-2fuch9",
+      "title": "シティリーグnote記事まとめ【30thCELEBRATION環境】",
+      "url": "https://pokekameshi.com/cityleague2027m6a-note/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-13",
+      "category": "大会",
+      "officialLabel": null,
       "isNew": true
     },
     {
@@ -113,17 +124,6 @@
       "id": "pokekameshi.com-2026-11-09-7lqh5e",
       "title": "【シティリーグ】2026/11/9(月)開催分 優勝＆入賞デッキまとめ",
       "url": "https://pokekameshi.com/cityleague20261109/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-09",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-09-2fuch9",
-      "title": "シティリーグnote記事まとめ【30thCELEBRATION環境】",
-      "url": "https://pokekameshi.com/cityleague2027m6a-note/",
       "source": "ポケカ飯（大会・優勝デッキ）",
       "sourceReliability": 3,
       "publishedAt": "2026-11-09",
