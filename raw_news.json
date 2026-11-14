@@ -1,19 +1,41 @@
 {
   "meta": {
-    "collectedAt": "2026-11-14T09:34:19.273Z",
-    "total": 56,
+    "collectedAt": "2026-11-14T18:39:52.030Z",
+    "total": 55,
     "newCount": 42,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
-      "攻略大百科（ポケカ）": 9
+      "攻略大百科（ポケカ）": 8
     }
   },
   "items": [
     {
+      "id": "pokekameshi.com-2026-11-14-4kcah3",
+      "title": "【シニア】シティリーグ2026/11/14(土)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261114s/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-14",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
       "id": "pokekameshi.com-2026-11-14-peymrl",
       "title": "【シティリーグ】2026/11/14(土)開催分 優勝＆入賞デッキまとめ",
       "url": "https://pokekameshi.com/cityleague20261114/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-14",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-11-14-y4yh1r",
+      "title": "【ジュニア】シティリーグ2026/11/14(土)開催分 優勝＆入賞デッキまとめ",
+      "url": "https://pokekameshi.com/cityleague20261114j/",
       "source": "ポケカ飯（大会・優勝デッキ）",
       "sourceReliability": 3,
       "publishedAt": "2026-11-14",
@@ -149,28 +171,6 @@
       "source": "ポケカ飯（大会・優勝デッキ）",
       "sourceReliability": 3,
       "publishedAt": "2026-11-08",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-07-5x92v1",
-      "title": "【シティリーグ】2026/11/7(土)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261107/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-07",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-07-v3vk5v",
-      "title": "【ジュニア】シティリーグ2026/11/7(土)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261107j/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-07",
       "category": "大会",
       "officialLabel": null,
       "isNew": true
@@ -614,17 +614,6 @@
       "category": "大会",
       "officialLabel": "イベント",
       "isNew": true
-    },
-    {
-      "id": "premium.gamepedia.jp-2026-09-15-6wk6dd",
-      "title": "【ポケカ】30th CELEBRATIONがメルカリ出品禁止に｜対象商品・期間まとめ【ポケモンカード】",
-      "url": "https://premium.gamepedia.jp/pokeca/archives/25546",
-      "source": "攻略大百科（ポケカ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-09-15",
-      "category": "その他",
-      "officialLabel": null,
-      "isNew": false
     }
   ]
 }
