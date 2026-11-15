@@ -1,59 +1,15 @@
 {
   "meta": {
-    "collectedAt": "2026-11-15T02:28:31.729Z",
-    "total": 55,
-    "newCount": 42,
+    "collectedAt": "2026-11-15T10:00:54.778Z",
+    "total": 45,
+    "newCount": 33,
     "perSource": {
       "ポケモンカード公式": 40,
-      "ポケカ飯（大会・優勝デッキ）": 10,
+      "ポケカ飯（大会・優勝デッキ）": "取得失敗: fetch failed",
       "攻略大百科（ポケカ）": 8
     }
   },
   "items": [
-    {
-      "id": "pokekameshi.com-2026-11-14-peymrl",
-      "title": "【シティリーグ】2026/11/14(土)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261114/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-14",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-14-4kcah3",
-      "title": "【シニア】シティリーグ2026/11/14(土)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261114s/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-14",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-14-y4yh1r",
-      "title": "【ジュニア】シティリーグ2026/11/14(土)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261114j/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-14",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-14-eizh4g",
-      "title": "【シティS１】プロのデッキ選択｜プロ＆有名プレイヤー使用デッキまとめ",
-      "url": "https://pokekameshi.com/2027citys1_prolist/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-14",
-      "category": "環境",
-      "officialLabel": null,
-      "isNew": true
-    },
     {
       "id": "pc-2026-11-13-n6wn4d",
       "title": "拡張パック「ハドウシーカー」の、収録カードをさらに大公開！",
@@ -99,28 +55,6 @@
       "isNew": true
     },
     {
-      "id": "pokekameshi.com-2026-11-13-2fuch9",
-      "title": "シティリーグnote記事まとめ【30thCELEBRATION環境】",
-      "url": "https://pokekameshi.com/cityleague2027m6a-note/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-13",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-13-kjal0",
-      "title": "拡張パック【ハドウシーカー】収録カードリスト＆解説",
-      "url": "https://pokekameshi.com/cardlistm7/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-13",
-      "category": "新カード",
-      "officialLabel": null,
-      "isNew": false
-    },
-    {
       "id": "pc-005604",
       "title": "スペシャルデッキセットMEGAでデッキそのままバトルに参加しよう！",
       "url": "https://www.pokemon-card.com/info/005604.html",
@@ -129,50 +63,6 @@
       "publishedAt": "2026-11-12",
       "category": "新商品",
       "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-12-egkfns",
-      "title": "【シティリーグ】2026/11/12(木)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261112/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-12",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-11-zg1llf",
-      "title": "【シティリーグ】2026/11/11(水)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261111/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-11",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-10-mqlwxj",
-      "title": "【シティリーグ】2026/11/10(火)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261110/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-10",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-09-7lqh5e",
-      "title": "【シティリーグ】2026/11/9(月)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261109/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-09",
-      "category": "大会",
-      "officialLabel": null,
       "isNew": true
     },
     {
