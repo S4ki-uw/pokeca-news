@@ -1,8 +1,8 @@
 {
   "meta": {
-    "collectedAt": "2026-11-16T22:45:32.189Z",
-    "total": 55,
-    "newCount": 42,
+    "collectedAt": "2026-11-17T21:32:08.924Z",
+    "total": 53,
+    "newCount": 40,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
@@ -589,28 +589,6 @@
       "source": "ポケモンカード公式",
       "sourceReliability": 5,
       "publishedAt": "2026-09-19",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-005677",
-      "title": "【重要】台風25号接近に伴う「チャンピオンズリーグ2027 横浜」開催判断について",
-      "url": "https://www.pokemon-card.com/info/005677.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-18",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-005675",
-      "title": "「チャンピオンズリーグ2027」における「ポケモンワールドチャンピオンシップス2027」出場権の獲得条件変更について",
-      "url": "https://www.pokemon-card.com/info/005675.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-18",
       "category": "大会",
       "officialLabel": "イベント",
       "isNew": true
