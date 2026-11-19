@@ -1,8 +1,8 @@
 {
   "meta": {
-    "collectedAt": "2026-11-18T21:08:00.305Z",
-    "total": 52,
-    "newCount": 39,
+    "collectedAt": "2026-11-19T21:13:02.359Z",
+    "total": 51,
+    "newCount": 38,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
@@ -567,17 +567,6 @@
       "source": "ポケモンカード公式",
       "sourceReliability": 5,
       "publishedAt": "2026-09-21",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-005687",
-      "title": "【重要】9月20日12時更新「チャンピオンズリーグ2027 横浜」開催状況について",
-      "url": "https://www.pokemon-card.com/info/005687.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-20",
       "category": "大会",
       "officialLabel": "イベント",
       "isNew": true
