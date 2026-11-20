@@ -1,8 +1,8 @@
 {
   "meta": {
-    "collectedAt": "2026-11-19T21:13:02.359Z",
-    "total": 51,
-    "newCount": 38,
+    "collectedAt": "2026-11-20T10:38:47.109Z",
+    "total": 54,
+    "newCount": 40,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
@@ -10,6 +10,72 @@
     }
   },
   "items": [
+    {
+      "id": "pc-005767",
+      "title": "【重要】フィッシング（詐欺）に対する注意喚起と対策について",
+      "url": "https://www.pokemon-card.com/info/005767.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-20",
+      "category": "その他",
+      "officialLabel": "その他",
+      "isNew": true
+    },
+    {
+      "id": "pc-2026-11-20-4lfzlr",
+      "title": "拡張パック「ハドウシーカー」のカードリスト公開！",
+      "url": "https://www.pokemon-card.com/ex/m7/",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-20",
+      "category": "新カード",
+      "officialLabel": "商品",
+      "isNew": false
+    },
+    {
+      "id": "pc-005764",
+      "title": "ピカチュウのカードイラストがフィギュアになって登場！",
+      "url": "https://www.pokemon-card.com/info/005764.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-20",
+      "category": "新商品",
+      "officialLabel": "商品",
+      "isNew": true
+    },
+    {
+      "id": "pc-2026-11-20-as1dam",
+      "title": "プレイヤー名鑑が更新されました",
+      "url": "https://www.pokemon-card.com/event/topplayers/",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-20",
+      "category": "その他",
+      "officialLabel": "コラム",
+      "isNew": true
+    },
+    {
+      "id": "pc-2026-11-20-6yd74p",
+      "title": "POKÉMON CARD LOUNGEで「チャンピオンズリーグ2027 千葉」を観戦しよう！",
+      "url": "https://shibuyatsutaya.tsite.jp/article/2790.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-20",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-005559",
+      "title": "「ここからデビュー！はじめてポケカ体験会」開催！",
+      "url": "https://www.pokemon-card.com/info/005559.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-20",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
     {
       "id": "pokekameshi.com-2026-11-17-2fuch9",
       "title": "シティリーグnote記事まとめ【30thCELEBRATION環境】",
@@ -363,8 +429,8 @@
       "isNew": true
     },
     {
-      "id": "premium.gamepedia.jp-2026-10-23-1z4sjr",
-      "title": "【ポケカ】ハドウシーカーの収録カードリストや抽選・予約情報まとめ(11月9日更新)｜40種判明【拡張パック】【BOX】【ポケモンカード】",
+      "id": "premium.gamepedia.jp-2026-10-23-ry99nc",
+      "title": "【ポケカ】ハドウシーカーの収録カードリストや抽選・予約情報まとめ(11月20日更新)｜79種判明【拡張パック】【BOX】【ポケモンカード】",
       "url": "https://premium.gamepedia.jp/pokeca/archives/25938",
       "source": "攻略大百科（ポケカ）",
       "sourceReliability": 3,
@@ -495,17 +561,6 @@
       "isNew": true
     },
     {
-      "id": "pc-005559",
-      "title": "「ここからデビュー！はじめてポケカ体験会」開催！",
-      "url": "https://www.pokemon-card.com/info/005559.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-10-02",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
       "id": "premium.gamepedia.jp-2026-10-02-8tn4fm",
       "title": "【ポケカ】MUR高額カードランキング｜買取価格・収録パックまとめ【ポケモンカード】",
       "url": "https://premium.gamepedia.jp/pokeca/archives/25741",
@@ -547,28 +602,6 @@
       "publishedAt": "2026-09-28",
       "category": "新商品",
       "officialLabel": "その他",
-      "isNew": true
-    },
-    {
-      "id": "pc-005690",
-      "title": "「チャンピオンズリーグ2027 横浜」優勝者インタビュー",
-      "url": "https://www.pokemon-card.com/info/005690.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-25",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-005688",
-      "title": "【重要】9月21日13時台更新「チャンピオンズリーグ2027 横浜」開催状況について",
-      "url": "https://www.pokemon-card.com/info/005688.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-21",
-      "category": "大会",
-      "officialLabel": "イベント",
       "isNew": true
     }
   ]
