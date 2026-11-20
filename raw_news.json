@@ -1,12 +1,12 @@
 {
   "meta": {
-    "collectedAt": "2026-11-20T10:38:47.109Z",
-    "total": 54,
-    "newCount": 40,
+    "collectedAt": "2026-11-20T20:56:49.991Z",
+    "total": 55,
+    "newCount": 41,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
-      "攻略大百科（ポケカ）": 8
+      "攻略大百科（ポケカ）": 9
     }
   },
   "items": [
@@ -74,6 +74,17 @@
       "publishedAt": "2026-11-20",
       "category": "大会",
       "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "premium.gamepedia.jp-2026-11-20-h7cbuv",
+      "title": "【ポケカ】ハドウシーカーと同時発売のサプライまとめ｜デッキケースやシールドなどのグッズが多数登場！【11月27日発売】【ポケモンカード】",
+      "url": "https://premium.gamepedia.jp/pokeca/archives/26358",
+      "source": "攻略大百科（ポケカ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-20",
+      "category": "新商品",
+      "officialLabel": null,
       "isNew": true
     },
     {
