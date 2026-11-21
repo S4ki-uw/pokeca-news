@@ -1,15 +1,26 @@
 {
   "meta": {
-    "collectedAt": "2026-11-20T20:56:49.991Z",
-    "total": 55,
-    "newCount": 41,
+    "collectedAt": "2026-11-21T19:58:02.284Z",
+    "total": 56,
+    "newCount": 42,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
-      "攻略大百科（ポケカ）": 9
+      "攻略大百科（ポケカ）": 10
     }
   },
   "items": [
+    {
+      "id": "premium.gamepedia.jp-2026-11-21-iy0b3l",
+      "title": "【ポケカ】ハドウシーカーの当たりカードと買取価格予想【ポケモンカード】",
+      "url": "https://premium.gamepedia.jp/pokeca/archives/26272",
+      "source": "攻略大百科（ポケカ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-21",
+      "category": "相場",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "pc-005767",
       "title": "【重要】フィッシング（詐欺）に対する注意喚起と対策について",
