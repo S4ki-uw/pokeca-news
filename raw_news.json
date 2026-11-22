@@ -1,8 +1,8 @@
 {
   "meta": {
-    "collectedAt": "2026-11-21T19:58:02.284Z",
+    "collectedAt": "2026-11-22T20:10:58.941Z",
     "total": 56,
-    "newCount": 42,
+    "newCount": 43,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
@@ -10,6 +10,39 @@
     }
   },
   "items": [
+    {
+      "id": "pokekameshi.com-2026-11-23-vqzu3n",
+      "title": "【CL千葉】優勝・上位入賞デッキレシピまとめ｜チャンピオンズリーグ2027 千葉【ジュニアリーグ】",
+      "url": "https://pokekameshi.com/cl2027chiba-junior/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-23",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-11-23-cebymt",
+      "title": "【CL千葉】優勝・上位入賞デッキレシピまとめ｜チャンピオンズリーグ2027 千葉【シニアリーグ】",
+      "url": "https://pokekameshi.com/cl2027chiba-senior/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-23",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
+    {
+      "id": "pokekameshi.com-2026-11-23-4ewuul",
+      "title": "【CL千葉】優勝・上位入賞デッキレシピまとめ｜チャンピオンズリーグ2027千葉【マスターリーグ】",
+      "url": "https://pokekameshi.com/cl2027chiba/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-23",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "premium.gamepedia.jp-2026-11-21-iy0b3l",
       "title": "【ポケカ】ハドウシーカーの当たりカードと買取価格予想【ポケモンカード】",
@@ -176,28 +209,6 @@
       "isNew": true
     },
     {
-      "id": "pokekameshi.com-2026-11-14-y4yh1r",
-      "title": "【ジュニア】シティリーグ2026/11/14(土)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261114j/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-14",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-14-eizh4g",
-      "title": "【シティS１】プロのデッキ選択｜プロ＆有名プレイヤー使用デッキまとめ",
-      "url": "https://pokekameshi.com/2027citys1_prolist/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-14",
-      "category": "環境",
-      "officialLabel": null,
-      "isNew": true
-    },
-    {
       "id": "pc-2026-11-13-n6wn4d",
       "title": "拡張パック「ハドウシーカー」の、収録カードをさらに大公開！",
       "url": "https://www.pokemon-card.com/ex/m7/",
@@ -240,17 +251,6 @@
       "category": "大会",
       "officialLabel": "イベント",
       "isNew": true
-    },
-    {
-      "id": "pokekameshi.com-2026-11-13-kjal0",
-      "title": "拡張パック【ハドウシーカー】収録カードリスト＆解説",
-      "url": "https://pokekameshi.com/cardlistm7/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-13",
-      "category": "新カード",
-      "officialLabel": null,
-      "isNew": false
     },
     {
       "id": "pc-005604",
