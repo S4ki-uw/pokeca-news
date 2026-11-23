@@ -1,8 +1,8 @@
 {
   "meta": {
-    "collectedAt": "2026-11-22T20:10:58.941Z",
+    "collectedAt": "2026-11-23T11:24:45.822Z",
     "total": 56,
-    "newCount": 43,
+    "newCount": 31,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
@@ -19,7 +19,7 @@
       "publishedAt": "2026-11-23",
       "category": "大会",
       "officialLabel": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pokekameshi.com-2026-11-23-cebymt",
@@ -30,7 +30,7 @@
       "publishedAt": "2026-11-23",
       "category": "大会",
       "officialLabel": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pokekameshi.com-2026-11-23-4ewuul",
@@ -41,7 +41,7 @@
       "publishedAt": "2026-11-23",
       "category": "大会",
       "officialLabel": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "premium.gamepedia.jp-2026-11-21-iy0b3l",
@@ -52,7 +52,7 @@
       "publishedAt": "2026-11-21",
       "category": "相場",
       "officialLabel": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pc-005767",
@@ -63,7 +63,7 @@
       "publishedAt": "2026-11-20",
       "category": "その他",
       "officialLabel": "その他",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pc-2026-11-20-4lfzlr",
@@ -129,7 +129,7 @@
       "publishedAt": "2026-11-20",
       "category": "新商品",
       "officialLabel": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pokekameshi.com-2026-11-17-2fuch9",
@@ -151,7 +151,7 @@
       "publishedAt": "2026-11-15",
       "category": "環境",
       "officialLabel": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pokekameshi.com-2026-11-15-bfnqns",
@@ -162,7 +162,7 @@
       "publishedAt": "2026-11-15",
       "category": "大会",
       "officialLabel": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pokekameshi.com-2026-11-15-1j7i0",
@@ -195,7 +195,7 @@
       "publishedAt": "2026-11-14",
       "category": "大会",
       "officialLabel": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pokekameshi.com-2026-11-14-4kcah3",
@@ -228,7 +228,7 @@
       "publishedAt": "2026-11-13",
       "category": "大会",
       "officialLabel": "イベント",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pc-000008",
@@ -261,7 +261,7 @@
       "publishedAt": "2026-11-12",
       "category": "新商品",
       "officialLabel": "イベント",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pc-005726",
@@ -327,7 +327,7 @@
       "publishedAt": "2026-11-06",
       "category": "その他",
       "officialLabel": "その他",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pc-005756",
@@ -338,7 +338,7 @@
       "publishedAt": "2026-11-06",
       "category": "その他",
       "officialLabel": "その他",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "premium.gamepedia.jp-2026-11-06-j5m82x",
@@ -382,7 +382,7 @@
       "publishedAt": "2026-10-30",
       "category": "大会",
       "officialLabel": "イベント",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pc-005740",
@@ -437,7 +437,7 @@
       "publishedAt": "2026-10-23",
       "category": "大会",
       "officialLabel": "イベント",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "pc-005452",
@@ -558,7 +558,7 @@
       "publishedAt": "2026-10-09",
       "category": "大会",
       "officialLabel": "イベント",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "pc-2026-10-09-v2impo",
