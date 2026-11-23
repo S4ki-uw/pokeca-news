@@ -10,8 +10,8 @@
 
 const NEWS_META = {
   isSample: false,
-  lastUpdated: "2026-10-29T10:54:00+09:00",
-  sourceNote: "ポケモンカード公式（記事直リンク）を中心に、専門メディアのRSS（大会・相場）で補完。収集はGitHub Actionsで1日3回自動実行。2026-10-29 10:54 更新：シティリーグを10/28開催分まで反映、ハドウシーカー収録カードリストを補強、商標登録の話題を追加（未確定）。価格・収録カード・環境・相場は変動するため要確認。"
+  lastUpdated: "2026-11-23T16:43:00+09:00",
+  sourceNote: "ポケモンカード公式（記事直リンク）を中心に、専門メディアのRSS（大会・相場）で補完。収集はGitHub Actionsで1日3回自動実行。2026-11-23 16:43 更新：チャンピオンズリーグ2027千葉の結果発表を反映、ハドウシーカー(11/27発売)関連を補強、公式の価格改定・フィッシング注意喚起を追加。発売済みのMEGAデッキセット等はピックアップから整理。価格・収録カード・環境・相場は変動するため要確認。"
 };
 
 /* カテゴリ: 新商品 / 新カード / 大会 / 環境 / 再販 / 販売 / ルール / レギュレーション / 相場 / その他 */
@@ -27,7 +27,7 @@ const NEWS_DATA = [
     fetchedAt: "2026-10-23T15:26:00+09:00",
     category: "新商品",
     importance: 5,
-    summary: "新しい拡張パック「ハドウシーカー」の発売が公式に発表された。2026年11月27日（金）発売予定。専門メディアでは収録カードの一部（20種前後）や抽選・予約情報が出始めている。希望小売価格など未確定の情報もあるため要確認。",
+    summary: "拡張パック「ハドウシーカー」が2026年11月27日（金）発売。発売を今週末に控え、収録カードリストや同時発売サプライ、買取相場予想などの情報が各メディアで出そろってきている。希望小売価格など一部未確定の情報は公式を要確認。",
     factPoints: [
       "商品名: 拡張パック「ハドウシーカー」",
       "発売日: 2026年11月27日（金）",
@@ -39,7 +39,9 @@ const NEWS_DATA = [
     relatedCards: [],
     relatedArticles: [
       { source: "攻略大百科（収録カードリスト・抽選/予約情報）", url: "https://premium.gamepedia.jp/pokeca/archives/25938" },
-      { source: "ポケカ飯（収録カードリスト＆解説）", url: "https://pokekameshi.com/cardlistm7/" }
+      { source: "ポケカ飯（収録カードリスト＆解説）", url: "https://pokekameshi.com/cardlistm7/" },
+      { source: "攻略大百科（同時発売サプライまとめ）", url: "https://premium.gamepedia.jp/pokeca/archives/26358" },
+      { source: "攻略大百科（当たりカード・買取価格予想）", url: "https://premium.gamepedia.jp/pokeca/archives/26272" }
     ],
     confidence: "確実",
     isPickup: true
@@ -54,9 +56,9 @@ const NEWS_DATA = [
     fetchedAt: "2026-10-18T21:50:00+09:00",
     category: "新商品",
     importance: 5,
-    summary: "3種類のメガシンカexの構築済みデッキと対戦グッズがセットになった、これから始める人向けの商品。2026年11月13日（金）発売。",
+    summary: "3種類のメガシンカexの構築済みデッキと対戦グッズがセットになった、これから始める人向けの商品。2026年11月13日（金）発売（発売中）。公式では、このセットのデッキをそのまま大会に持ち込める案内も出ている。",
     factPoints: [
-      "発売日: 2026年11月13日（金）",
+      "発売日: 2026年11月13日（金）／現在発売中",
       "希望小売価格: 5,500円（税込）",
       "内容: 「メガオーダイルex」「メガカイリューex」「メガゲンガー」の構築済みデッキ3種（各60枚）",
       "対戦グッズ（コイン・ダメカン・プレイマット）や説明書・デッキケースなども同梱"
@@ -65,10 +67,11 @@ const NEWS_DATA = [
     relatedCards: ["メガオーダイルex", "メガカイリューex", "メガゲンガー"],
     relatedArticles: [
       { source: "Gamer（内容詳細）", url: "https://www.gamer.ne.jp/news/202610160029/" },
-      { source: "攻略大百科（収録カード・抽選/予約情報）", url: "https://premium.gamepedia.jp/pokeca/archives/25871" }
+      { source: "攻略大百科（収録カード・抽選/予約情報）", url: "https://premium.gamepedia.jp/pokeca/archives/25871" },
+      { source: "公式（デッキそのままバトルに参加）", url: "https://www.pokemon-card.com/info/005604.html" }
     ],
     confidence: "確実",
-    isPickup: true
+    isPickup: false
   },
   {
     id: "2026-09-16-30th-celebration",
@@ -90,49 +93,52 @@ const NEWS_DATA = [
     relatedCards: [],
     relatedArticles: [],
     confidence: "確実",
-    isPickup: true
+    isPickup: false
   },
   {
     id: "2026-10-09-cl2027-chiba",
-    title: "「チャンピオンズリーグ2027 千葉」 2026年11月22日〜23日に開催",
-    url: "https://www.pokemon-card.com/info/005666.html",
-    source: "ポケモンカード公式",
-    sourceReliability: 5,
-    publishedAt: "2026-10-09",
-    fetchedAt: "2026-10-18T21:50:00+09:00",
+    title: "「チャンピオンズリーグ2027 千葉」が閉幕 — 優勝・上位入賞デッキまとめが公開",
+    url: "https://pokekameshi.com/cl2027chiba/",
+    source: "ポケカ飯（大会結果まとめ）",
+    sourceReliability: 3,
+    publishedAt: "2026-11-23",
+    fetchedAt: "2026-11-23T16:43:00+09:00",
     category: "大会",
-    importance: 4,
-    summary: "公式の大規模大会「チャンピオンズリーグ2027 千葉」が2026年11月22日（日）〜23日（月・祝）に開催される。チャンピオンシップシリーズ2027シーズンの大会のひとつ。",
+    importance: 5,
+    summary: "公式の大規模大会「チャンピオンズリーグ2027 千葉」が2026年11月22日（日）〜23日（月・祝）に開催され、マスター/シニア/ジュニア各リーグの優勝・上位入賞デッキのまとめが公開された。現環境のトップメタを確認できる最重要の大会。※個別の優勝デッキ・構築の詳細は各まとめを要確認。",
     factPoints: [
-      "開催日: 2026年11月22日（日）〜23日（月・祝）",
-      "会場: 千葉",
-      "チャンピオンシップシリーズ2027シーズン（2026年9月開始）の公式大会"
+      "開催日: 2026年11月22日（日）〜23日（月・祝）／会場: 千葉",
+      "マスター・シニア・ジュニアの各リーグで優勝・上位入賞デッキのまとめが公開",
+      "チャンピオンシップシリーズ2027シーズンの公式大会",
+      "※個別の優勝デッキ・採用カードの詳細は各リーグのまとめを要確認"
     ],
-    beginnerExplanation: "「チャンピオンズリーグ（CL）」は公式の大型大会で、全国からトップ級のプレイヤーが集まります。出場しなくても、どんなデッキが勝っているか（＝今の環境）を知る絶好の機会です。大会の少し前後は、強いデッキの情報が一気に増えます。",
+    beginnerExplanation: "「チャンピオンズリーグ（CL）」は全国からトップ級が集まる公式の大型大会です。ここで勝ったデッキは「今いちばん強い・信頼できる構築」の目安になります。これからデッキを組むなら、CLの上位デッキを参考にすると失敗しにくいです。大会直後は各デッキの解説記事も一気に増えます。",
     relatedCards: [],
     relatedArticles: [
-      { source: "公式（同伴保護者の事前登録について）", url: "https://www.pokemon-card.com/info/005728.html" }
+      { source: "ポケカ飯（シニアリーグ結果）", url: "https://pokekameshi.com/cl2027chiba-senior/" },
+      { source: "ポケカ飯（ジュニアリーグ結果）", url: "https://pokekameshi.com/cl2027chiba-junior/" },
+      { source: "公式（大会告知・ライブ配信）", url: "https://www.pokemon-card.com/info/005751.html" }
     ],
-    confidence: "確実",
+    confidence: "要確認",
     isPickup: true
   },
   {
     id: "2026-10-18-env-dragapult",
-    title: "環境トップは「ドラパルトex」 — 使用率が最上位クラス",
-    url: "https://torecamap.co.jp/column/pokemon-environment/",
-    source: "トレカの地図（環境Tier表）",
+    title: "環境上位は「ドラパルトex」など — 最新のTier表・CL千葉結果で確認を",
+    url: "https://pokekameshi.com/strongestdeck-tire/",
+    source: "ポケカ飯（環境Tier表）",
     sourceReliability: 3,
-    publishedAt: "2026-10-17",
-    fetchedAt: "2026-10-18T21:50:00+09:00",
+    publishedAt: "2026-11-15",
+    fetchedAt: "2026-11-23T16:43:00+09:00",
     category: "環境",
     importance: 4,
-    summary: "複数の集計サイトで「ドラパルトex」が環境トップに位置づけられている。ある集計では使用率29.3%（2026年10月2日〜16日）。※使用率は大会結果で日々変動する。",
+    summary: "「30th CELEBRATION環境」として各メディアが環境デッキのTier表を公開している。10月時点の集計ではドラパルトexが使用率トップクラス（ある集計で29.3%、2026/10/2〜16）だったが、以降は新商品や大会で環境が動いているため、最新の順位はTier表やCL千葉の結果で確認するのが確実。※使用率・順位は日々変動する。",
     factPoints: [
-      "ドラパルトexが使用率トップクラス（ある集計で29.3%、2026/10/2〜10/16）",
-      "技「ファントムダイブ」でバトル場を攻撃しつつベンチにもダメカンを置ける",
-      "軽いエネルギーで進化ターンから動けるテンポの良さが強み"
+      "各メディアが「30th CELEBRATION環境」のTier表を公開・更新中",
+      "10月時点の集計ではドラパルトexが使用率トップクラス（ある集計で29.3%、2026/10/2〜16）",
+      "その後の環境はCL千葉など最新大会の結果を要確認（固定ではない）"
     ],
-    beginnerExplanation: "「使用率（採用率）」は、大会でそのデッキ・カードがどれくらい多く使われているかの割合です。高いほど“今強い・使いやすい”目安になります。初めてガチなデッキを組むなら、使用率上位のデッキを参考にすると失敗しにくいです。ただし数字は大会結果で毎週変わるので、あくまで参考に。",
+    beginnerExplanation: "「Tier表（ティア表）」は、今どのデッキが強いかをランク分けした一覧です。上位のデッキほど大会で安定して勝ちやすい目安になります。初めてガチなデッキを組むなら上位から選ぶと失敗しにくいですが、順位は新弾や大きな大会のたびに変わるので、最新のものを見るのがコツです。",
     relatedCards: ["ドラパルトex"],
     relatedArticles: [
       { source: "ポケカ飯（優勝デッキまとめ）", url: "https://pokekameshi.com/category/pokemoncard-windeckrecipe/" }
@@ -142,27 +148,26 @@ const NEWS_DATA = [
   },
   {
     id: "2026-10-21-cityleague-latest",
-    title: "シティリーグ（10/19〜10/28開催分）ドラパルト系が優勢の傾向 — 10/21は優勝・準優勝がボムドラパルト",
-    url: "https://pokekameshi.com/cityleague20261028/",
+    title: "シティリーグは「2027 シーズン2」がスタート — 11月中旬開催分までまとめ公開",
+    url: "https://pokekameshi.com/cityleague20261115/",
     source: "ポケカ飯（大会結果まとめ）",
     sourceReliability: 3,
-    publishedAt: "2026-10-28",
-    fetchedAt: "2026-10-29T10:54:00+09:00",
-    category: "環境",
+    publishedAt: "2026-11-15",
+    fetchedAt: "2026-11-23T16:43:00+09:00",
+    category: "大会",
     importance: 3,
-    summary: "10月後半のシティリーグでは、ドラパルト系デッキが優勝・入賞の中心となる傾向が続いている。10月21日開催分では優勝・準優勝ともに「ボムドラパルト」だった。10月26日〜28日開催分の優勝・入賞まとめも順次公開されている。※最新回の個別結果は各まとめを要確認（大会結果は会場・日程で変動）。",
+    summary: "店舗開催の公式大会「シティリーグ」は2027シーズン2がスタート（公式告知）。11月14日・15日開催分など、週末ごとの優勝・入賞デッキまとめが各リーグ区分で公開されており、最新の環境チェックに使える。※個別の優勝デッキは各開催日のまとめを要確認。",
     factPoints: [
-      "2026年10月21日（水）開催分: 優勝・準優勝ともにボムドラパルト",
-      "同日ベスト4にドラパルト、オーロンゲ/ノココッチ",
-      "10月26日〜28日開催分の優勝・入賞デッキまとめも順次公開（直近もドラパルト系が上位の傾向）",
+      "「シティリーグ2027 シーズン2」がポケモンカードジムでスタート（公式告知・2026/10/30）",
+      "11月14日（土）・15日（日）開催分の優勝・入賞デッキまとめが公開",
+      "オープン/ジュニア/シニアの区分ごとにまとめあり",
       "※個別の優勝デッキは各開催日のまとめを要確認／掲載は一部会場の結果に基づく"
     ],
-    beginnerExplanation: "「ボムドラパルト」は、環境トップのドラパルトexを軸に、ダメカン（ダメージの目印）を盤面にばらまいて一気に倒しにいく型のデッキです。同じドラパルト系でも型がいくつかあり、大会ごとに少しずつ流行が変わります。最新の大会結果を定点観測すると、今どの型が勝っているかが見えてきます。",
-    relatedCards: ["ドラパルトex", "オーロンゲ", "ノココッチ"],
+    beginnerExplanation: "「シティリーグ」は全国の店舗で毎週のように開かれる公式大会で、勝つとポイントがもらえます。週末ごとに結果が出るので、ここを定点観測すると「今どんなデッキが勝っているか」の最新の流れがつかめます。1週だけでなく数週間の傾向で見るのがコツです。",
+    relatedCards: [],
     relatedArticles: [
-      { source: "ポケカ飯（10/27開催分）", url: "https://pokekameshi.com/cityleague20261027/" },
-      { source: "ポケカ飯（10/26開催分）", url: "https://pokekameshi.com/cityleague20261026/" },
-      { source: "ポケカ飯（10/21開催分）", url: "https://pokekameshi.com/cityleague20261021/" }
+      { source: "ポケカ飯（11/14開催分）", url: "https://pokekameshi.com/cityleague20261114/" },
+      { source: "公式（シティリーグ2027 シーズン2開始）", url: "https://www.pokemon-card.com/info/005737.html" }
     ],
     confidence: "要確認",
     isPickup: false
@@ -187,6 +192,51 @@ const NEWS_DATA = [
     relatedCards: [],
     relatedArticles: [],
     confidence: "要確認",
+    isPickup: false
+  },
+  {
+    id: "pc-2026-11-06-price-revision",
+    title: "【公式】一部商品の価格改定のお知らせ",
+    url: "https://www.pokemon-card.com/info/005755.html",
+    source: "ポケモンカード公式",
+    sourceReliability: 5,
+    publishedAt: "2026-11-06",
+    fetchedAt: "2026-11-23T16:43:00+09:00",
+    category: "販売",
+    importance: 3,
+    summary: "ポケモンカードゲームの一部商品について、価格改定（値上げ）のお知らせが公式から出ている。対象商品・改定時期・改定後価格の詳細は公式の告知を要確認。",
+    factPoints: [
+      "ポケモンカード公式が一部商品の価格改定を告知（2026/11/6）",
+      "対象商品・時期・改定後価格の詳細は公式ページを要確認"
+    ],
+    beginnerExplanation: "「価格改定」はメーカー希望小売価格が変わることで、多くは値上げを指します。対象商品を買う予定があるなら、いつから・いくらになるのかを公式の案内で確認しておくと安心です。",
+    relatedCards: [],
+    relatedArticles: [],
+    confidence: "確実",
+    isPickup: false
+  },
+  {
+    id: "pc-2026-11-20-phishing-alert",
+    title: "【公式・注意喚起】ポケカを装ったフィッシング（詐欺）に注意",
+    url: "https://www.pokemon-card.com/info/005767.html",
+    source: "ポケモンカード公式",
+    sourceReliability: 5,
+    publishedAt: "2026-11-20",
+    fetchedAt: "2026-11-23T16:43:00+09:00",
+    category: "その他",
+    importance: 2,
+    summary: "ポケモンカードゲームのキャンペーン等を装ったフィッシング（詐欺）メール・サイトへの注意喚起が、公式から重ねて出されている。公式を名乗る不審な連絡には注意し、個人情報やログイン情報を入力しないよう呼びかけられている。",
+    factPoints: [
+      "ポケカ公式がフィッシング詐欺への注意喚起を掲載（2026/11/20、11/6にも関連告知）",
+      "公式を装ったメール・サイトで個人情報やログイン情報をだまし取る手口に注意",
+      "不審なリンクは開かず、公式サイトの案内を確認するよう呼びかけ"
+    ],
+    beginnerExplanation: "「フィッシング詐欺」は、公式そっくりの偽メールや偽サイトでIDやパスワード、カード情報を盗む手口です。「当選」「限定販売」などで急かしてくるのが典型。リンクは安易に開かず、公式サイトを自分で開いて確認するのが安全です。",
+    relatedCards: [],
+    relatedArticles: [
+      { source: "公式（キャンペーンを装った詐欺メールへの注意）", url: "https://www.pokemon-card.com/info/005756.html" }
+    ],
+    confidence: "確実",
     isPickup: false
   },
   {
