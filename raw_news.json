@@ -1,8 +1,8 @@
 {
   "meta": {
-    "collectedAt": "2026-11-27T04:52:40.788Z",
-    "total": 56,
-    "newCount": 31,
+    "collectedAt": "2026-11-27T11:30:20.213Z",
+    "total": 57,
+    "newCount": 32,
     "perSource": {
       "ポケモンカード公式": 40,
       "ポケカ飯（大会・優勝デッキ）": 10,
@@ -10,6 +10,39 @@
     }
   },
   "items": [
+    {
+      "id": "pc-005783",
+      "title": "拡張パック「ハドウシーカー」のカードを使ったデッキレシピを公開！",
+      "url": "https://www.pokemon-card.com/info/005783.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-27",
+      "category": "環境",
+      "officialLabel": "コラム",
+      "isNew": true
+    },
+    {
+      "id": "pc-005786",
+      "title": "「チャンピオンズリーグ2027 千葉」優勝者インタビュー",
+      "url": "https://www.pokemon-card.com/info/005786.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-27",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
+    {
+      "id": "pc-005740",
+      "title": "追加応募とその他コーナーを追加！",
+      "url": "https://www.pokemon-card.com/info/005740.html",
+      "source": "ポケモンカード公式",
+      "sourceReliability": 5,
+      "publishedAt": "2026-11-27",
+      "category": "大会",
+      "officialLabel": "イベント",
+      "isNew": true
+    },
     {
       "id": "pokekameshi.com-2026-11-23-vqzu3n",
       "title": "【CL千葉】優勝・上位入賞デッキレシピまとめ｜チャンピオンズリーグ2027 千葉【ジュニアリーグ】",
@@ -601,28 +634,6 @@
       "sourceReliability": 5,
       "publishedAt": "2026-09-29",
       "category": "販売",
-      "officialLabel": "その他",
-      "isNew": true
-    },
-    {
-      "id": "pc-005678",
-      "title": "チーム戦形式の新しい大会「Pokémon Team Masters」の開催が決定！",
-      "url": "https://www.pokemon-card.com/info/005678.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-28",
-      "category": "大会",
-      "officialLabel": "イベント",
-      "isNew": true
-    },
-    {
-      "id": "pc-005692",
-      "title": "「30thプロモカードパック」紹介記事のカード画像誤りについて",
-      "url": "https://www.pokemon-card.com/info/005692.html",
-      "source": "ポケモンカード公式",
-      "sourceReliability": 5,
-      "publishedAt": "2026-09-28",
-      "category": "新商品",
       "officialLabel": "その他",
       "isNew": true
     }
