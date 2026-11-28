@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collectedAt": "2026-11-27T11:30:20.213Z",
+    "collectedAt": "2026-11-28T04:37:38.369Z",
     "total": 57,
     "newCount": 32,
     "perSource": {
@@ -10,6 +10,17 @@
     }
   },
   "items": [
+    {
+      "id": "pokekameshi.com-2026-11-28-qsnk1g",
+      "title": "【ポケカ】2026/11/27 ジムバトル優勝・注目デッキまとめ【ハドウシーカー環境】",
+      "url": "https://pokekameshi.com/pokemontaikaiwin20261127/",
+      "source": "ポケカ飯（大会・優勝デッキ）",
+      "sourceReliability": 3,
+      "publishedAt": "2026-11-28",
+      "category": "大会",
+      "officialLabel": null,
+      "isNew": true
+    },
     {
       "id": "pc-005783",
       "title": "拡張パック「ハドウシーカー」のカードを使ったデッキレシピを公開！",
@@ -229,17 +240,6 @@
       "category": "大会",
       "officialLabel": null,
       "isNew": false
-    },
-    {
-      "id": "pokekameshi.com-2026-11-14-4kcah3",
-      "title": "【シニア】シティリーグ2026/11/14(土)開催分 優勝＆入賞デッキまとめ",
-      "url": "https://pokekameshi.com/cityleague20261114s/",
-      "source": "ポケカ飯（大会・優勝デッキ）",
-      "sourceReliability": 3,
-      "publishedAt": "2026-11-14",
-      "category": "大会",
-      "officialLabel": null,
-      "isNew": true
     },
     {
       "id": "pc-2026-11-13-n6wn4d",
